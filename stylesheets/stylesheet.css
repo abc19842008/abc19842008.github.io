@@ -846,6 +846,11 @@ dl dd {
   aside#sidebar a.button {
     display: none;
   }
+  aside#sidebar .copyright {
+	  font-size: 14px;
+	  text-align: center;
+	  margin: 0;
+  }
   #main-content h1:before,
   #main-content h2:before,
   #main-content h3:before,
@@ -858,11 +863,6 @@ dl dd {
   }
 }
 
-footer .copyright {
-  font-size: 14px;
-  text-align: center;
-  margin: 0;
-}
 
 /*begin contact*/
 contact .contact-title {
