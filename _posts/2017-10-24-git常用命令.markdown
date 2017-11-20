@@ -5,7 +5,7 @@ date:   2017-10-23 13:57:45
 categories: jekyll update
 ---
 
-Git常用操作命令收集：
+收集了GIT的一些常用命令，可以做备用
 
 
 1) 远程仓库相关命令
