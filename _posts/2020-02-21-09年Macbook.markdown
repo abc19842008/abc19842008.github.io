@@ -2,13 +2,15 @@
 layout: post
 title:  "09年macbook pro"
 date:  2020-02-21 21:30:45 +0800
-categories: jekyll update
+image: 4.jpg
+tags: [Life, work]
+categories: Life
 excerpt: 折腾了一周，09年macbook pro终于又抢救过来了 
 ---
 
-周一上班发现在公司用的macbook pro开机几秒就断电直接黑屏了
+周一上班发现在公司用的macbook pro开机几秒就断电直接黑屏了 
 
-09年的macbook pro，已经过了十来个年头，换了SSD硬盘，换了两个4G内存，整个系统用起来还是很流畅，办公一点问题也没有
+09年的macbook pro， 已经过了十来个年头， 换了SSD硬盘，换了两个4G内存， 整个系统用起来还是很流畅， 办公一点问题也没有
 
 想想还是抢救下，毕竟这么多年下来都有感情了
 

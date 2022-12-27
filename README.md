@@ -1,92 +1,52 @@
-# Architect theme
+<h1>Flexton is an ultra-minimalist and responsive theme for Jekyll</h1>
 
-This is a [Jekyll][1] theme that is an adaptation of [@jasonlong][2]'s [Architect theme][4] on [GitHub Pages][3].
+<p>Flexton created especially for those who appreciate minimalism and functionality.</p>
+<p>Amazing flexibility with pleasant colors and custom design makes Flexton a simple theme, suitable for almost any blog.</p>
 
-This is the raw HTML and styles that are used for the *Architect* theme on [GitHub Pages](http://pages.github.com/).
+<h2>Demo</h2>
 
-![](http://cl.ly/image/1x0Q3213330G/content)
+Check the theme in action [Demo](https://flexton.netlify.com/)
 
-# Getting Started
+![Page preview](https://github.com/artemsheludko/flexton/blob/master/images/preview.png?raw=true)
 
-## Prerequisites
+<h2>Features</h2>
 
-To install this theme, jekyll is required to be installed on your system. Head over to the [docs](https://jekyllrb.com/docs/installation/) and install the four requirements (Ruby, RubyGems, Node.js and Python 2.7). If you're on a Mac system, it's likely the only package you'll need to install is Node.js
+<ul>
+	<li>100% responsive and clean theme</li>
+ 	<li>Optimized for mobile devices</li>
+	<li>Valid HTML5 code</li>
+	<li>Included site search</li>
+	<li>Contact Page</li>
+	<li>Post sharing</li>
+	<li>Supports Mail Chimp Subscriber</li>
+	<li>Supports Disqus Comments</li>
+	<li>Social Media Profiles</li>
+	<li>Contact Form - FormsPree</li>
+	<li>Evil Icons</li>
+	<li>Google Fonts</li>
+</ul>
 
-Once you've installed the requirements, run this command in your terminal:
+<h2>Credits</h2>
 
-```
-$ sudo gem install jekyll
-```
+<p>I have used the following scripts, fonts or other files as listed.</p>
 
-You'll also need to install the bundler package:
+<ul>
+  <li><a href="https://fonts.google.com/">Google Fonts</a> (Volkhov, Open Sans).</li>
+  <li><a href="http://evil-icons.io/">Evil Icons</a></li>
+  <li><a href="http://fitvidsjs.com/">FitVids.js</a></li>
+  <li><a href="https://jquery.com/">jQuery.com</a></li>
+  <li><a href="https://github.com/christian-fei/Simple-Jekyll-Search">Simple-Jekyll-Search</a></li>
+  <li>Preview Images form <a href="https://unsplash.com/">unsplash.com</a>, <a href="https://www.pexels.com/">pexels.com</a></li>
+</ul>
 
-```
-$ sudo gem install bundler
-```
+<h2>Deployment</h2>
 
-## Downloading and Installing the theme
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec serve` to start the Jekyll server.
 
-Download the theme
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
-```
-http://github.com/pietromenna/jekyll-architect-theme/archive/master.zip
-```
+<h2>Buy me a coffee</h2>
 
-Unzip it and use it as a regular jekyll folder.
-
-```
-$ unzip jekyll-architect-theme-master.zip
-```
-
-Get inside the newly extracted folder
-
-```
-$ cd jekyll-architect-theme-master
-```
-
-Install the dependencies
-
-```
-$ bundle install
-```
-
-Use it!
-
-```
-$ jekyll serve
-```
-
-# Setup
-
-Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
-
-
-## baseurl
-
-`baseurl` parameter is required in the case the site doesn't sit on the root of the domain. For example: http://pietromenna.github.io/jekyll-architect-theme
-
-In the case above the baseurl should be set to "/jekyll-architect-theme".
-
-In the case the site sits in the root, you can leave `baseurl` as empty "".
-
-
-For more details read about [Jekyll][1] on its web page.
-
-# Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/pietromenn/jekyll-architect-theme.
-
-# Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-You theme is setup just like a normal Jelyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-# License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/).
-
-[1]: http://jekyllrb.com
-[2]: https://github.com/jasonlong
-[3]: http://pages.github.com/
-[4]: http://github.com/jasonlong/architect-theme
+<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
+<p>Either way, your support is a way to thank me ❤️</p>
+<p align="center"><b>Thank you for your support!</b></p>
