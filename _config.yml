@@ -1,6 +1,6 @@
 title: Welcome to SmartEvery
 description: SmartEvery is a personal blog.
-baseurl: "/category" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://smartevery.cn" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
