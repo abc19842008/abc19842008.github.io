@@ -18,8 +18,8 @@ categories: Linux
 添加远程仓库：$ git remote add [name] [url]
 删除远程仓库：$ git remote rm [name]
 修改远程仓库：$ git remote set-url --push[name][newUrl]
-拉取远程仓库：$ git pull [remoteName] [localBranchName]
-推送远程仓库：$ git push [remoteName] [localBranchName]
+拉取远程仓库：$ git pull [remoteName] [remoteBranchName]:[localBranchName]
+推送远程仓库：$ git push [remoteName] [localBranchName]:[remoteBranchName]
 </pre>
  
 2）分支(branch)操作相关命令
